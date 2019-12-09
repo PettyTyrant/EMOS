@@ -12,7 +12,8 @@ Proposed Systems includes:
       Patch, Database, Matchmaking Services      
     Enhanced Construction: Advanced Building/Construction system for networked games.
     Enhanced Dialogue
-    Enhanced Inventory    
+    Enhanced Inventory
+    Enhanced Pooling: Efficient Pooling for Actors and Objects
     Enhanced Serialization
     Enhanced Social System -
         Factions / Guilds / Family / Raids / (Parties / Teams)
