@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EMOS",
+	"Description": "The Enchanced Multiplayer online System is built for making Online Games easier to create in Unreal Engine 4 applications",
+	"Category": "Other",
+	"CreatedBy": "PettyTyrant",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EMOS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
